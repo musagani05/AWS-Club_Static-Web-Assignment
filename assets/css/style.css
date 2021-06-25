@@ -904,6 +904,8 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
+  justify-content: center !important;
+  align-items: center !important;
 }
 
 .contact .info i {
