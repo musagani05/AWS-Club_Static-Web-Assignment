@@ -1,4 +1,5 @@
-TUGAS AWS CLUB STATIC WEBSITE 01 CV
+TUGAS AWS CLUB STATIC WEBSITE
+CV Website
 
 Thanks for downloading this template!
 
