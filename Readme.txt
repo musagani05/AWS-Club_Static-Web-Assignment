@@ -9,4 +9,4 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 Your site is published at https://musagani05.github.io/AWS-Club_Static-Web-Assignment/
 
-Jangan lupa gitbash setelah update "npm run deploy"
+Don't forget to "npm run deploy"
